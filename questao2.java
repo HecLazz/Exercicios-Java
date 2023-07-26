@@ -1,5 +1,5 @@
 public class questao2{
-        public static void main(String[] args){
+   public static void main(String[] args){
 
         System.out.println("\r\nMédia aritmética: Ma1 = {8, 9, 7}, Ma2 ={4, 5, 6}.");
         System.out.println("Cálculo da média: somar os números e dividir pela quantidade de número na lista.");
