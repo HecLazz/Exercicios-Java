@@ -4,7 +4,7 @@ Projeto 1
 Lista de Exercícios JAVA Básico.
 28-06-2023
 */
-public class projetinho{
+public class questao1{
     public static void main(String[] args){
 
         // Questão 1
